@@ -1,6 +1,6 @@
 # google-play-store-apps-eda
 
-🔎 Data cleaning and exploratory data analysis done on a data set containing info about apps in 📱 Google Play Store.
+🔎 Data cleaning and exploratory data analysis was done on a data set containing info about apps in 📱 Google Play Store.
 
 Here [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) by [@Lavanya](https://www.kaggle.com/lava18) from [Kaggle](https://www.kaggle.com/) is used.
 
